@@ -1,0 +1,16 @@
+C:\Users\analo\OneDrive\Documentos\Projeto C#\bin\Debug\net5.0\Projeto C#.exe
+C:\Users\analo\OneDrive\Documentos\Projeto C#\bin\Debug\net5.0\Projeto C#.deps.json
+C:\Users\analo\OneDrive\Documentos\Projeto C#\bin\Debug\net5.0\Projeto C#.runtimeconfig.json
+C:\Users\analo\OneDrive\Documentos\Projeto C#\bin\Debug\net5.0\Projeto C#.runtimeconfig.dev.json
+C:\Users\analo\OneDrive\Documentos\Projeto C#\bin\Debug\net5.0\Projeto C#.dll
+C:\Users\analo\OneDrive\Documentos\Projeto C#\bin\Debug\net5.0\Projeto C#.pdb
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\Projeto C#.csproj.AssemblyReference.cache
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\Projeto C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\Projeto C#.AssemblyInfoInputs.cache
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\Projeto C#.AssemblyInfo.cs
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\Projeto C#.csproj.CoreCompileInputs.cache
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\Projeto C#.dll
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\refint\Projeto C#.dll
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\Projeto C#.pdb
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\Projeto C#.genruntimeconfig.cache
+C:\Users\analo\OneDrive\Documentos\Projeto C#\obj\Debug\net5.0\ref\Projeto C#.dll
